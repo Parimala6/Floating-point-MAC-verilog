@@ -10,3 +10,4 @@ The above approach has been adopted from [Implementation of 32 Bit Floating Poin
 
 ## Simulation 
 The result can be verified from the screenshot here.
+<img src="https://github.com/Parimala6/Floating-point-MAC-verilog/blob/master/MAC/fp_mac.JPG">
