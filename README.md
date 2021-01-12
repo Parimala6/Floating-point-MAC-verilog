@@ -3,7 +3,7 @@
 
 The proposed MAC unit is implemented in Xilinx ISE Design suite 2018.2 on ZedBoard Zynq Evaluation and Development Kit (xc7z020clg484-1).
 Both Floating Point adder and multiplier are fully synthesizable.
-The above approach has been adopted from [Implementation of 32 Bit Floating Point MAC Unit to Feed Weighted Inputs to Neural Networks].
+The above approach has been adapted from [Implementation of 32 Bit Floating Point MAC Unit to Feed Weighted Inputs to Neural Networks].
 
 
 
